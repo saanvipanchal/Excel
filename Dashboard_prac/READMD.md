@@ -4,18 +4,18 @@ This Excel workbook showcases my hands-on practice with dashboard creation, data
 🔧 Key Features & Functions Used
 The workbook demonstrates the use of several advanced Excel tools and formulas, including:
 
-1.VLOOKUP
-2.Advanced filtering
-3.Data Validation 
-4.UPPER()
-5.CHOOSE()
-6.TEXT()
-7.SUBTOTALS()
-8.INDEX() and MATCH() as alternative of VLOOKUP
-9.IF() functions
-10.Pivot tables
-11.Sliders
-12.Macros and VBA
+-1.VLOOKUP
+-2.Advanced filtering
+-3.Data Validation 
+-4.UPPER()
+-5.CHOOSE()
+-6.TEXT()
+-7.SUBTOTALS()
+-8.INDEX() and MATCH() as alternative of VLOOKUP
+-9.IF() functions
+-10.Pivot tables
+-11.Sliders
+-12.Macros and VBA
 
 📁 Workbook Structure
 The workbook consists of 4 worksheets containing customer and order data:
